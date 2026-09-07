@@ -32,18 +32,10 @@ open source by default.
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamisisep-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hamisi's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamisisep-maker&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top languages" />
-</p>
-
-<p>
   <img src="https://streak-stats.demolab.com?user=hamisisep-maker&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamisisep-maker&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
-</p>
-
 > Most contributions happen in private repos — enable **"Include private
-> contributions"** under GitHub Settings → Profile for the graphs above to
-> reflect real activity level instead of looking sparse.
+> contributions"** under GitHub Settings → Profile for the streak above to
+> reflect real activity level instead of looking sparse. My real-time
+> contribution calendar is on this profile page itself, above.
